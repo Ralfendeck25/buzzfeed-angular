@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://vercel.com/ralfendeck25s-projects/buzzfeed-angular/BgSQRWPviwiWYfp4bYUNG3ywSDhT">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://buzzfeed-angular-cion6bnmc-ralfendeck25s-projects.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
