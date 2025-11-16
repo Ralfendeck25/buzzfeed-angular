@@ -27,6 +27,6 @@ Projeto do curso "Criando um Clone do BuzzFeed com Angular" da DIO.
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](dio.me) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://dio.me) para mais detalhes.
 
 ---
