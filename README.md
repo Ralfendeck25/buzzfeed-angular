@@ -1,9 +1,9 @@
 <h1 align="center">
-  BuzzFeed
+  BuzzFeed-Angular
 </h1>
 
 <p align="center">
-  <a href="https://brunoh-buzzfeed.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://ralfendeck25-buzzfeed.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
@@ -13,7 +13,7 @@
     <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/42030f11-dc0e-42ad-af74-da2d35656193"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/42030f11-dc0e-42ad-af74-da2d35656193.svg" alt="wakatime"></a>
 </p>
 
-![Preview](./src/assets/images/preview.jfif)
+![Preview](./src/assets/images/buzzfeed.png)
 
 ## 💻 Projeto
 
